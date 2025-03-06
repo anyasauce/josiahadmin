@@ -9,6 +9,7 @@ JosiahAdmin is a modern and responsive admin dashboard template built with **HTM
 - **Dynamic UI**: Interactive elements powered by JavaScript.
 - **Custom Styling**: Enhanced user interface with CSS for a polished look.
 - **Modular Components**: Reusable UI components for faster development.
+- **Dark Mode Support**: Seamless toggle between light and dark themes for improved accessibility and user comfort.
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +61,7 @@ Contributions are welcome! If you want to improve or add features, feel free to 
 
 ## 📧 Contact
 
-For questions or support, reach out via [your email] or visit the [project repository](https://github.com/anyasauce/JosiahAdmin).
+For questions or support, reach out via [your email] or visit the [project repository](https://github.com/anyasauce/josiahadmin).
 
 ---
 
